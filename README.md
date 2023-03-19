@@ -56,3 +56,4 @@ Firebase firestore is used as database in this build
 ## Hosting and Authentication
 
 Firebase hosting and authentication is considered for this build. Use email and password for authentication
+
